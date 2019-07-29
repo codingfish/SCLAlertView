@@ -24,7 +24,7 @@
 #define KEYBOARD_HEIGHT 80
 #define PREDICTION_BAR_HEIGHT 40
 #define ADD_BUTTON_PADDING 10.0f
-#define DEFAULT_WINDOW_WIDTH 240
+#define DEFAULT_WINDOW_WIDTH 270
 
 @interface SCLAlertView ()  <UITextFieldDelegate, UIGestureRecognizerDelegate>
 
